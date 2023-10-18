@@ -1,0 +1,57 @@
+{
+
+  "products": [
+
+    {
+
+      "id": 1,
+
+      "name": "Honda Fit",
+
+      "price": 37000
+
+    },
+
+    {
+
+      "id": 2,
+
+      "name": "Siena",
+
+      "price": 14000
+
+    },
+
+    {
+
+      "id": 3,
+
+      "name": "Pálio",
+
+      "price": 22000
+
+    },
+
+    {
+
+      "id": 4,
+
+      "name": "Fiat 500",
+
+      "price": 42000
+
+    },
+
+    {
+
+      "id": 5,
+
+      "name": "Astra",
+
+      "price": 21000
+
+    }
+
+  ]
+
+}
